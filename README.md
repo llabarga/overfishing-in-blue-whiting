@@ -31,7 +31,7 @@ Regarding the reproductive success of the species, they reach their first maturi
 #### Main results
 <img width="375" height="379" alt="Captura de pantalla 2026-02-23 a las 20 31 20" src="https://github.com/user-attachments/assets/4a6cbc97-1edb-4d03-9dad-504d8258623b" />
 
-<img width="650" height="330" alt="Captura de pantalla 2026-02-23 a las 20 31 47" src="https://github.com/user-attachments/assets/e36b822e-96e3-43d5-a09e-8bdc7c802962" />
+<img width="619" height="310" alt="Captura de pantalla 2026-02-23 a las 20 35 15" src="https://github.com/user-attachments/assets/8be0ed8c-5469-46a1-b632-8947731ce273" />
 
 <img width="598" height="242" alt="Captura de pantalla 2026-02-23 a las 20 32 58" src="https://github.com/user-attachments/assets/34a22428-a327-435d-ab81-61d1b150293a" />
 
