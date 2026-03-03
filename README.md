@@ -28,4 +28,5 @@ Regarding the reproductive success of the species, they reach their first maturi
 * Age of the individuals (this being the appropriate one for each species) (Froese, R. 2004)
 * Overfishing can generate problems such as precocious maturity, which is the ability of individuals to mature sexually at a much earlier age than is typical for the species. This increase in the speed of maturation leads to a reduction in body growth. It is a mechanism that fish acquire to cope with sustained fishing pressure over time (Ministry of Agriculture, Fisheries and Food).
 
-
+#### Results
+Check out my Jupyter Notebook "bluewhiting_analysis" to see data explorations and main results
