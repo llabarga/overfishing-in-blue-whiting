@@ -1,0 +1,153 @@
+Zone,TL,Weight,Sex,Maturity,Age
+Atlàntic,24.00,83.33,F,M ,1.5
+Atlàntic,24.10,84.54,F,M ,3
+Atlàntic,25.00,92.06,F,M ,1.5
+Atlàntic,23.10,82.66,M,M ,2.5
+Atlàntic,26.60,103.07,F,M ,5
+Atlàntic,24.50,82.20,F,M ,1
+Mediterrani,21.40,68.37,F,M ,2.5
+Mediterrani,19.50,49.74,F,M ,2
+Mediterrani,20.90,55.72,F,M ,2.5
+Mediterrani,19.50,46.37,M,M ,3
+Mediterrani,21.00,60.80,F,M ,1
+Atlàntic,26.20,104.67,F,M,4
+Atlàntic,27.50,101.92,F,M,5
+Atlàntic,23.50,58.66,M,M,5
+Atlàntic,25.00,90.45,I,M,2.5
+Atlàntic,24.00,92.51,M,M,3
+Atlàntic,25.00,88.20,I,M,2
+Atlàntic,22.70,69.89,M,M,2
+Atlàntic,23.20,79.20,F,M,2
+Atlàntic,23.50,86.43,I ,M,1.5
+Atlàntic,23.80,72.49,M,M,2.5
+Atlàntic,23.50,68.00,F,M,1.5
+Atlàntic,23.90,72.70,M,M,1.5
+Atlàntic,22.10,64.75,M,M,1.5
+Atlàntic,25.80,101.40,F,M,2
+Atlàntic,23.00,83.86,M,M,2.5
+Atlàntic,25.00,117.23,F,M,3
+Atlàntic,18.50,41.37,M,M,3
+Atlàntic,22.30,68.84,M,M,2.5
+Atlàntic,23.90,79.65,M,M,3
+Atlàntic,24.60,75.00,F,M,3
+Atlàntic,25.70,85.00,F,M,4
+Atlàntic,26.60,86.71,I ,M,5
+Atlàntic,22.50,67.70,M,M,1.5
+Atlàntic,22.10,67.35,M,M,1.5
+Atlàntic,23.00,72.60,M,M,2.5
+Atlàntic,26.70,115.10,M,M,3
+Atlàntic,27.50,114.80,M,M,4
+Atlàntic,23.60,58.35,M,M,2
+Atlàntic,24.50,84.96,M,M,2
+Atlàntic,23.40,79.52,F,M,2
+Atlàntic,26.05,98.60,F,M,5
+Atlàntic,25.00,71.42,F,M,3
+Atlàntic,26.50,105.95,M,M,4.5
+Atlàntic,25.40,92.49,I,M,3
+Atlàntic,21.90,65.42,F,M,3
+Atlàntic,21.10,67.03,F,M,3
+Atlàntic,23.10,73.23,F,M,4
+Atlàntic,27.80,122.95,I ,M,2
+Atlàntic,22.30,68.06,I ,M,3
+Atlàntic,24.00,89.06,I ,M,2.5
+Atlàntic,24.90,93.74,I ,M,3
+Atlàntic,25.00,73.97,I ,M,2
+Mediterrani,18.80,46.76,F,M,5
+Mediterrani,18.70,45.51,M,M,2
+Mediterrani,20.00,44.68,M,M,4
+Mediterrani,21.50,69.91,F,M,2
+Mediterrani,21.50,73.99,F,M,2.5
+Mediterrani,25.20,117.18,F,M,2.5
+Mediterrani,23.30,94.94,F,M,1.5
+Mediterrani,18.50,42.66,F,M,1.5
+Mediterrani,18.50,45.19,M,M,1.5
+Mediterrani,26.50,121.31,F,M,1.5
+Mediterrani,18.50,41.37,M,M,2
+Mediterrani,19.50,48.84,F,M,2
+Mediterrani,19.60,42.37,M,M,1.5
+Mediterrani,19.50,45.00,F,M,3
+Mediterrani,19.80,49.51,M,M,2
+Mediterrani,20.30,59.65,F,M,2
+Mediterrani,24.70,103.00,M,M,2
+Mediterrani,24.00,99.00,F,M,2
+Mediterrani,21.70,66.00,M,M,3
+Mediterrani,20.90,56.00,M,M,2.5
+Mediterrani,22.90,65.69,F,M,3
+Mediterrani,21.80,47.58,I ,M,2
+Mediterrani,25.60,113.12,M,M,4
+Mediterrani,21.00,53.57,M,M,1
+Mediterrani,20.00,56.63,F,M,1
+Mediterrani,20.50,57.27,M,M,0.5
+Mediterrani,20.70,57.88,M,M,3
+Mediterrani,21.20,59.71,M,M,3.5
+Mediterrani,20.80,58.16,M,M,3
+Mediterrani,21.10,69.24,F,M,1.5
+Mediterrani,24.00,98.47,M,M,1.5
+Mediterrani,26.20,108.32,M,M,2
+Mediterrani,20.00,51.48,F,M,2
+Mediterrani,25.00,87.73,M,M,1.5
+Mediterrani,20.50,64.41,F,M,2.5
+Mediterrani,21.50,70.93,M,M,1.5
+Mediterrani,20.40,53.41,F,M,2
+Mediterrani,20.20,52.48,M,M,2
+Mediterrani,23.50,82.59,F,M,2
+Mediterrani,22.00,80.46,F,M,2.5
+Mediterrani,24.00,74.78,F,M,3
+Mediterrani,23.00,64.70,F,M,4
+Mediterrani,21.00,58.71,F,M,1.5
+Mediterrani,21.50,64.40,F,M,2
+Mediterrani,23.00,79.63,F,M,3
+Mediterrani,23.00,75.77,F,M,2
+Mediterrani,25.00,104.31,F,M,1.5
+Mediterrani,25.50,106.35,M,M,2
+Mediterrani,22.80,81.00,F,M,3
+Mediterrani,21.50,67.56,F,M,3
+Mediterrani,25.70,115.44,M,M,2.5
+Mediterrani,21.20,52.55,F,M,1.5
+Mediterrani,22.10,77.58,F,M,3.5
+Atlàntic,22.30,71.30,I ,I ,2
+Atlàntic,22.20,61.22,I ,I ,1
+Atlàntic,22.10,60.17,I ,I ,1.5
+Atlàntic,23.80,87.05,I ,I ,1.5
+Atlàntic,22.00,60.35,I ,I ,1
+Atlàntic,25.00,67.60,I ,I ,1.5
+Atlàntic,22.00,70.20,I ,I ,1.5
+Atlàntic,24.50,72.40,I ,I ,1.5
+Atlàntic,22.50,70.81,I ,I ,1.5
+Atlàntic,25.30,85.67,I ,I ,1
+Atlàntic,24.50,80.31,I ,I ,2
+Atlàntic,24.90,98.06,I ,I ,4
+Mediterrani,19.80,48.63,I ,I ,1
+Mediterrani,19.00,45.55,I ,I ,1.5
+Mediterrani,18.90,43.95,I ,I ,1
+Atlàntic,25.40,101.70,I,I,1.5
+Atlàntic,24.50,74.00,I ,I,2.5
+Atlàntic,22.60,71.00,I ,I,2.5
+Atlàntic,26.20,62.00,I ,I,2
+Atlàntic,25.20,64.50,I ,I,3
+Atlàntic,23.70,80.38,I,I,1
+Atlàntic,22.90,70.48,I,I,1.5
+Atlàntic,24.50,83.69,I,I,2
+Atlàntic,22.50,61.79,I ,I,2
+Atlàntic,25.00,79.38,I ,I,2
+Atlàntic,22.50,63.13,I ,I,2
+Atlàntic,24.50,70.10,I,I,3.5
+Atlàntic,22.40,60.10,I,I,3
+Atlàntic,22.30,65.75,I,I,2
+Atlàntic,24.90,86.59,I,I,2
+Atlàntic,24.00,73.86,I,I,3
+Atlàntic,22.90,76.95,I,I,3
+Atlàntic,25.00,71.51,I ,I,2
+Mediterrani,22.50,63.32,I ,I,2
+Mediterrani,20.00,57.88,I,I,1.5
+Mediterrani,19.30,45.68,I,I,1.5
+Mediterrani,21.60,48.13,I ,I,2.5
+Mediterrani,19.70,51.02,I,I,1
+Mediterrani,20.30,44.95,I,I,3
+Mediterrani,20.20,48.81,I,I,1
+Mediterrani,19.50,48.92,I,I,3
+Mediterrani,25.00,106.39,I,I,2.5
+Mediterrani,20.00,49.08,I,I,1
+Mediterrani,21.10,57.93,I,I,3
+Mediterrani,20.10,53.05,I,I,3.5
+Mediterrani,19.40,47.58,I,I,3
